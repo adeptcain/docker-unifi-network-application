@@ -3,3 +3,5 @@ rules:
   - base: main
     upstream: linuxserver:main
     mergeMethod: merge
+    assignees:
+      - adeptcain
